@@ -39,7 +39,7 @@ Description:
 
 3，效果图如下
    
-   
+   ![demo](https://github.com/GitBubble/rviz_android_porting/blob/master/assets/snapshot.PNG?raw=true)
    
 ## todo:
     
