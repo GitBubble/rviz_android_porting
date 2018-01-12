@@ -4,7 +4,7 @@
 
 Description: 
 
-移植说明：
+##Part1: 移植说明：
 
 1， 体验请使用已经编译好的apk安装到Android平板设备上（app提供模拟器支持。
 
@@ -31,6 +31,16 @@ Description:
 9， 编译请使用android studio，基于gradle进行编译。
 
 
+##Part2: 模拟器
+
+1，工具： virtualbox，[android-x86-6.0-r3.iso](http://www.android-x86.org/download)
+
+2, 虚拟机选择桥接模式，以便android和master通信
+
+3，效果图如下
+   
+   
+   
 ## todo:
     
 1, compile guide to be add
